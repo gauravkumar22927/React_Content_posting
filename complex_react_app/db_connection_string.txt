@@ -1,0 +1,1 @@
+mongodb+srv://Gaurav:Kumar%4012@cluster0.elejqcs.mongodb.net/React_app?retryWrites=true&w=majority
